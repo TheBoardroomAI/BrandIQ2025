@@ -7,3 +7,9 @@ export { default as VideoPlayer } from './VideoPlayer';
 export { default as Container } from './Container';
 export { default as Section } from './Section';
 export { Heading, Text } from './Typography';
+
+// Homepage Components
+export { default as HeroSection } from './HeroSection';
+export { default as ValuePropositions } from './ValuePropositions';
+export { default as ResearchCallout } from './ResearchCallout';
+export { default as FeaturedCaseStudies } from './FeaturedCaseStudies';
