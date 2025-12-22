@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --brandiq-green: #00b159;
+  --brandiq-purple: #a0218d;
+  --brandiq-blue: #007db1;
+  --brandiq-orange: #f3901d;
+  --brandiq-gray: #696a6d;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  color: var(--brandiq-gray);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+  color: #1a1a1a;
+}
