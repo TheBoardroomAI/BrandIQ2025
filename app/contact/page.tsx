@@ -269,7 +269,5 @@ export default function ContactPage() {
   );
 }
 
-export const metadata = {
-  title: 'Contact Us | Brand IQ Creative',
-  description: 'Get in touch with Brand IQ Creative. Located in Pittsburgh, PA. Call 412.701.6226 or send us a message to discuss your higher education marketing needs.',
-};
+// Metadata moved to layout.tsx or removed for client component
+// Use next/head or Metadata API in a separate server component if needed
