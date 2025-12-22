@@ -13,3 +13,6 @@ export { default as HeroSection } from './HeroSection';
 export { default as ValuePropositions } from './ValuePropositions';
 export { default as ResearchCallout } from './ResearchCallout';
 export { default as FeaturedCaseStudies } from './FeaturedCaseStudies';
+
+// Service Components
+export { default as ServiceCard } from './ServiceCard';
