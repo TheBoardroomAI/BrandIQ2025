@@ -12,7 +12,7 @@
 |-------|--------|------------|
 | **Phase 1: Discovery & Asset Extraction** | ✅ Complete | 100% |
 | **Phase 2: Technical Architecture** | ✅ Complete | 100% |
-| **Phase 3: Build & Development** | 🔄 In Progress | 65% |
+| **Phase 3: Build & Development** | 🔄 In Progress | 80% |
 | **Phase 4: Content Migration** | ⏳ Pending | 0% |
 | **Phase 5: Testing & Optimization** | ⏳ Pending | 0% |
 | **Phase 6: Deployment** | ⏳ Pending | 0% |
@@ -27,7 +27,7 @@
 | **Step 2: Component Library** | ✅ Complete | 9 components (583 LOC) |
 | **Step 3: Homepage Build** | ✅ Complete | Hero videos, value props, case studies, research |
 | **Step 4: Services & Process** | ✅ Complete | 24 services, 4-stage methodology |
-| **Step 5: Portfolio & Blog** | ⏳ Pending | - |
+| **Step 5: Portfolio & Blog** | ✅ Complete | 6 case studies, 6 articles, newsletter |
 | **Step 6: Contact & Supporting** | ⏳ Pending | - |
 | **Step 7: QA & Polish** | ⏳ Pending | - |
 
