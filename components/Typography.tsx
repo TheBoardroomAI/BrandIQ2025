@@ -22,7 +22,7 @@ export function Heading({ children, level, className = '', color = 'default' }: 
     6: 'text-lg md:text-xl font-semibold',
   };
 
-  const Tag = `h${level}` as keyof JSX.IntrinsicElements;
+  const Tag = `h${level}` as keyof React.JSX.IntrinsicElements;
 
   return (
     <Tag className={`${styles[level]} ${colors[color]} ${className}`}>
