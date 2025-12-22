@@ -22,7 +22,7 @@ export function Heading({ children, level, className = '', color = 'default' }: 
     6: 'text-lg md:text-xl font-semibold',
   };
 
-  const Tag = `h${level}` as keyof JSX.IntrinsicElements;
+  const Tag = `h${level}` as 'h1' | 'h2' | 'h3' | 'h4' | 'h5' | 'h6';
 
   return (
     <Tag className={`${styles[level]} ${colors[color]} ${className}`}>
