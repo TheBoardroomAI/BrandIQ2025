@@ -18,7 +18,7 @@ export default function GalleryPage() {
       client: 'UNC Asheville',
       category: 'Brand Campaign',
       description: 'A bold repositioning campaign that redefined liberal arts education for the modern era, showcasing UNC Asheville\'s innovative approach to interdisciplinary learning.',
-      image: '/images/postcards-hero-image.jpg',
+      image: '/images/case-studies/unc-asheville-hero.jpg',
       results: [
         '23% increase in application inquiries',
         '18% growth in website engagement',
@@ -31,7 +31,7 @@ export default function GalleryPage() {
       client: 'Duquesne University - Palumbo Donahue School of Business',
       category: 'Strategic Messaging',
       description: 'A comprehensive brand messaging platform emphasizing ethical business education and values-driven leadership in the modern marketplace.',
-      image: '/images/brick-chisel-thumbnail.png',
+      image: '/images/case-studies/duquesne-hero.jpg',
       results: [
         '42% increase in graduate program applications',
         'Ranked in top 20 regional business schools',
@@ -44,7 +44,7 @@ export default function GalleryPage() {
       client: 'University of Iowa',
       category: 'Athletic Branding',
       description: 'Athletic program strategy and execution that unified brand messaging across all sports, creating a cohesive fan experience and driving engagement.',
-      image: '/images/baseball-hero-image.jpg',
+      image: '/images/case-studies/iowa-hero.jpg',
       results: [
         '35% increase in season ticket sales',
         '52% growth in merchandise revenue',
@@ -57,7 +57,7 @@ export default function GalleryPage() {
       client: 'Colorado School of Mines',
       category: 'Anniversary Campaign',
       description: '150th anniversary celebration campaign balancing rich heritage with forward-looking innovation in STEM education and research excellence.',
-      image: '/images/postcards-hero-image.jpg',
+      image: '/images/case-studies/colorado-mines-hero.jpg',
       results: [
         '$45M raised in anniversary campaign',
         '28% increase in alumni engagement',
@@ -70,7 +70,7 @@ export default function GalleryPage() {
       client: 'Clarion University',
       category: 'Enrollment Marketing',
       description: 'An integrated enrollment marketing strategy that transformed storytelling through authentic student voices and data-driven targeting.',
-      image: '/images/brick-chisel-thumbnail.png',
+      image: '/images/case-studies/clarion-hero.jpg',
       results: [
         '19% increase in freshman enrollment',
         '34% improvement in yield rate',
@@ -83,7 +83,7 @@ export default function GalleryPage() {
       client: 'Grove City College',
       category: 'Crisis Communications',
       description: 'Strategic communications response highlighting institutional values and unwavering commitment to educational excellence during challenging times.',
-      image: '/images/baseball-hero-image.jpg',
+      image: '/images/case-studies/grove-city-hero.jpg',
       results: [
         'Maintained 98% student retention',
         'Record fundraising during campaign period',

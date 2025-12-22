@@ -132,6 +132,57 @@ export default function ServicesPage() {
           </div>
         </Section>
 
+        {/* Strategic Partners Section */}
+        <Section background="gradient" padding="xl">
+          <div className="max-w-4xl mx-auto">
+            <div className="text-center mb-12">
+              <Heading level={2} className="mb-4">
+                Strategic Partners
+              </Heading>
+              <Text variant="body" color="muted">
+                Collaborating with industry leaders to deliver cutting-edge solutions
+              </Text>
+            </div>
+
+            <div className="bg-white rounded-lg shadow-lg p-8">
+              <div className="flex items-center justify-between mb-6">
+                <div>
+                  <h3 className="text-2xl font-bold text-brandiq-orange mb-2">
+                    Personicom Partnership
+                  </h3>
+                  <p className="text-gray-600 italic">Leaders in Higher Education Personalized Video</p>
+                </div>
+              </div>
+              <Text variant="body" color="default" className="mb-6">
+                Together, Personicom and Brand IQ Creative have emerged as the leaders in higher education 
+                personalized videos, serving clients across multiple sectors with cutting-edge PersoniCom PIVOT 2.0 technology.
+              </Text>
+              <div className="grid md:grid-cols-3 gap-6 mt-8">
+                <div className="text-center p-4 bg-brandiq-green bg-opacity-10 rounded-lg">
+                  <div className="text-3xl font-bold text-brandiq-green mb-2">2.5x</div>
+                  <Text variant="small" color="muted">Higher Engagement</Text>
+                </div>
+                <div className="text-center p-4 bg-brandiq-blue bg-opacity-10 rounded-lg">
+                  <div className="text-3xl font-bold text-brandiq-blue mb-2">67%</div>
+                  <Text variant="small" color="muted">Video Completion Rate</Text>
+                </div>
+                <div className="text-center p-4 bg-brandiq-purple bg-opacity-10 rounded-lg">
+                  <div className="text-3xl font-bold text-brandiq-purple mb-2">89%</div>
+                  <Text variant="small" color="muted">Preference Over Traditional</Text>
+                </div>
+              </div>
+              <div className="mt-6 text-center">
+                <a
+                  href="/personalized-video"
+                  className="inline-block text-brandiq-orange hover:text-orange-600 font-semibold transition-colors"
+                >
+                  Learn More About PersoniCom PIVOT 2.0 →
+                </a>
+              </div>
+            </div>
+          </div>
+        </Section>
+
         {/* Call to Action */}
         <Section background="white" padding="lg">
           <div className="text-center">
